@@ -4,6 +4,7 @@
 
 int main() {
 	Point p(1.0,2.0);	
+	//test
 	IterationResult i(p,0);
 	
 	std::cout << i.iterations() << std::endl;
